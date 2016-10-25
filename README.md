@@ -1,2 +1,2 @@
 # paradigmas
-Projetos da primeira e segunda unidade de paradigmas da programação
+Projetos da segunda unidade de paradigmas da programação
